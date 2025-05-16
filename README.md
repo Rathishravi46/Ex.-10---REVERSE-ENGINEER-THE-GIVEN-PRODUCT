@@ -40,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/f7c07a45-a61d-46ff-83ba-9906a283a6ae)
 
 
-### Name: Naresh S
+### Name: Praveen S
 ### Register Number: 212224230206
 
 ## RESULT:
