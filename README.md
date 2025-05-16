@@ -40,8 +40,8 @@
 ![image](https://github.com/user-attachments/assets/f7c07a45-a61d-46ff-83ba-9906a283a6ae)
 
 
-### Name: 212223240036
-### Register Number: GAUTHAM KRISHNA S
+### Name: Naresh S
+### Register Number: 212224230206
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
