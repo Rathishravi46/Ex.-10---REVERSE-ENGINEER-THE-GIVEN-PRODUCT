@@ -37,11 +37,12 @@
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/f7c07a45-a61d-46ff-83ba-9906a283a6ae)
 
-![Screenshot 2025-05-16 225130](https://github.com/user-attachments/assets/d2f2e6d6-db2c-4d7b-a721-9563f735503d)
 
-### Name: Praveen S
-### Register Number: 212224230206
+### Name: 212224240132
+### Register Number: RATHISH R
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
